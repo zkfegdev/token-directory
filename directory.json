@@ -65,7 +65,8 @@
     "decimals": 18,
     "logo": "zkrise.png"
   }
-   "0x36962c52Bbc20b7a4a39626Bee124F4Df853D3A8": {
+   "0x36962c52Bbc20b7a4a39626Bee124F4Df853D3A8":
+  {
     "name": "ZkFeg",
     "symbol": "$zkFEG",
     "decimals": 18,
